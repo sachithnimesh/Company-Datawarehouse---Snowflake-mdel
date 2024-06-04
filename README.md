@@ -25,6 +25,5 @@ Scalability: Designed to grow with the business needs.
 Insights: Enhanced ability to generate actionable business insights.
 I'm thrilled with the progress so far and can't wait to see how this data warehouse will empower data-driven decisions!
 
-🔗 Link to the full ERD image
 
 #DataScience #SQLServer #SSMS #DataWarehouse #ERD #DataManagement #DatabaseDesign #DataEngineering
